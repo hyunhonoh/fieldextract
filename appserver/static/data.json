@@ -1,0 +1,18 @@
+{"project_name":"test", 
+	"access_time":20180510141308,
+	"group1": 
+	[
+		{"group_name":"A", "group_count":0}, 
+		{"group_name":"B", "group_count":0},
+		{"group_name":"C", "group_count":0}
+	]
+}
+{"project_name":"test", 
+	"access_time":20180511141308,
+	"group1": 
+	[
+		{"group_name":"A", "group_count":1}, 
+		{"group_name":"B", "group_count":0},
+		{"group_name":"C", "group_count":1}
+	]
+}
